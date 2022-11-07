@@ -1,0 +1,26 @@
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.text-size-1 {
+    font-size: 14px;
+}
+.button-style {
+    letter-spacing: 3px;
+    background-color: rgb(235, 48, 15);
+    font-weight: 600;
+    color: white;
+}
+
+.footer {
+    margin-top: 5%;
+}
+
+.heading-fade {
+    color: rgb(128, 128, 128, 0.5);
+}
